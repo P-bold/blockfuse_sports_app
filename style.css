@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://files.oaiusercontent.com/file-8CjVQiIM9keoNTHeuFMJNca6?se=2024-10-18T07%3A53%3A28Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da2e61448-d22c-4bc3-9c20-f8009a383960.webp&sig=WEM1OOiquYC8TRGTHQJ4sbogntxQc0/rkK8rXdvWKKA%3D')no-repeat center center/cover;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    color: #e47f2c;
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(86, 61, 230);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
